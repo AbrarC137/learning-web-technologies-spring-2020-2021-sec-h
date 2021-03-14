@@ -3,7 +3,7 @@
 	<table border="0" cellspacing="0" cellpadding="0">
 		<tr>
 			<td>
-				<fieldset>
+				<fieldset> 
 					<legend><h3>REGISTRATION</h3></legend>
 					Id<br/><input type="text" name="id"><br/>
 					Password<br/><input type="password" name="password"><br/>
